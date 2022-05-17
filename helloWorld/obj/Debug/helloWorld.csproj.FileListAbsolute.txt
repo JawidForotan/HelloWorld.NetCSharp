@@ -1,0 +1,8 @@
+C:\Users\jawid\OneDrive\Bureaublad\C#Basics\helloWorld\bin\Debug\helloWorld.exe.config
+C:\Users\jawid\OneDrive\Bureaublad\C#Basics\helloWorld\bin\Debug\helloWorld.exe
+C:\Users\jawid\OneDrive\Bureaublad\C#Basics\helloWorld\bin\Debug\helloWorld.pdb
+C:\Users\jawid\OneDrive\Bureaublad\C#Basics\helloWorld\obj\Debug\helloWorld.csproj.AssemblyReference.cache
+C:\Users\jawid\OneDrive\Bureaublad\C#Basics\helloWorld\obj\Debug\helloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\jawid\OneDrive\Bureaublad\C#Basics\helloWorld\obj\Debug\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\jawid\OneDrive\Bureaublad\C#Basics\helloWorld\obj\Debug\helloWorld.exe
+C:\Users\jawid\OneDrive\Bureaublad\C#Basics\helloWorld\obj\Debug\helloWorld.pdb
